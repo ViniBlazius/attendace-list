@@ -6,7 +6,7 @@ A attendace list done with react
 Just for pratice
 ## Installation
 
-Clone this repository
+Clone this repository;
 
 Install the NPM:
 
