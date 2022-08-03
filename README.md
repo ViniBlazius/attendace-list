@@ -1,9 +1,8 @@
 
 # react-attendace-list
 
-A attendace list done with react
+I just do it to practice reacting
 
-Just for pratice
 ## Installation
 
 Clone this repository;
