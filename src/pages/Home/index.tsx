@@ -34,7 +34,7 @@ export function Home() {
 
   useEffect(() => {
     async function fetchData() {
-      const r = await fetch("https://api.github.com/users/ViniBlazius");
+      const r = await fetch("https://api.github.com/users/ViniBGoulart");
       const data = await r.json() as APIReponse;
 
       setUser({
