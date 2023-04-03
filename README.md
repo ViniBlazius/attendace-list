@@ -1,7 +1,7 @@
 
 # react-attendace-list
 
-I just do it to practice reacting
+I just do it to practice react
 
 ## Installation
 
